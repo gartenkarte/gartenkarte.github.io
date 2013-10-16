@@ -4,7 +4,7 @@
   <title><![CDATA[Gartenkarte]]></title>
   <link href="http://blog.gartenkarte.de/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
-  <updated>2013-10-17T01:51:23+02:00</updated>
+  <updated>2013-10-17T01:52:39+02:00</updated>
   <id>http://blog.gartenkarte.de/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -20,7 +20,7 @@
     <id>http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited</id>
     <content type="html"><![CDATA[<p><img src="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" title="Berliner Gartenkarte" ></p>
 
-<p><a class="btn btn-primary btn-lg" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf"><span class="glyphicon glyphicon-download"></span> 150dpi PDF (125 MB)</a><a class="btn btn-default btn-lg" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg">72dpi JPG (2,5 MB) »</a></p>
+<p><a class="btn btn-primary" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf"><span class="glyphicon glyphicon-download"></span> PDF</a> <a class="btn btn-default btn-lg" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg">JPG</a></p>
 
 <!--more-->
 
