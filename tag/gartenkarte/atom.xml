@@ -4,7 +4,7 @@
   <title><![CDATA[Category: gartenkarte | Gartenkarte]]></title>
   <link href="http://gartenkarte.github.io/tag/gartenkarte/atom.xml" rel="self"/>
   <link href="http://gartenkarte.github.io/"/>
-  <updated>2013-10-16T19:22:09+04:00</updated>
+  <updated>2013-10-16T19:23:42+04:00</updated>
   <id>http://gartenkarte.github.io/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -18,7 +18,7 @@
     <link href="http://gartenkarte.github.io/2013/berliner-gartenkarte-revisited/"/>
     <updated>2013-10-16T17:55:00+04:00</updated>
     <id>http://gartenkarte.github.io/2013/berliner-gartenkarte-revisited</id>
-    <content type="html"><![CDATA[<p><img class="<a" src="href="http://gartenkarte.de/gartenplane/img/20130530__georilla__gartenplane.jpg">http://gartenkarte.de/gartenplane/img/20130530__georilla__gartenplane.jpg</a>" title="Berliner Gartenkarte" ></p>
+    <content type="html"><![CDATA[<p>{% img <a href="http://gartenkarte.de/gartenplane/img/20130530__georilla__gartenplane.jpg">http://gartenkarte.de/gartenplane/img/20130530__georilla__gartenplane.jpg</a> Berliner Gartenkarte %}</p>
 
 <p>Vor mehr als einem Jahr gestalteten wir den Prototypen.</p>
 
