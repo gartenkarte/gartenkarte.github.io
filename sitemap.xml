@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
@@ -46,4 +47,54 @@
         <loc>http://blog.gartenkarte.de/robots.txt</loc>
         <lastmod>2013-10-16T19:16:19+02:00</lastmod>
     </url>
+=======
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited/</loc>
+        <lastmod>2013-10-16T19:56:15+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/javascripts/libs/bootstrap-3.0.0/customize.html</loc>
+        <lastmod>2013-10-16T18:06:45+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/javascripts/libs/bootstrap-3.0.0/components.html</loc>
+        <lastmod>2013-10-16T18:06:45+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/javascripts/libs/bootstrap-3.0.0/</loc>
+        <lastmod>2013-10-16T19:56:15+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/javascripts/libs/bootstrap-3.0.0/css.html</loc>
+        <lastmod>2013-10-16T18:06:45+04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.gartenkarte.de/javascripts/libs/bootstrap-3.0.0/getting-started.html
+        </loc>
+        <lastmod>2013-10-16T18:06:45+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/javascripts/libs/bootstrap-3.0.0/javascript.html</loc>
+        <lastmod>2013-10-16T18:06:45+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/</loc>
+        <lastmod>2013-10-16T19:56:15+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/archiv/</loc>
+        <lastmod>2013-10-16T19:56:15+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/kontakt/</loc>
+        <lastmod>2013-10-16T18:54:14+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.gartenkarte.de/robots.txt</loc>
+        <lastmod>2013-10-16T18:06:45+04:00</lastmod>
+    </url>
+>>>>>>> b09bab26ec6832f80a4eb757532f1bcd60b61ac0
 </urlset>
