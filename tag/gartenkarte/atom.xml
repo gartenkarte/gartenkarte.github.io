@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: gartenkarte | Gartenkarte]]></title>
+  <link href="http://blog.gartenkarte.de/tag/gartenkarte/atom.xml" rel="self"/>
+  <link href="http://blog.gartenkarte.de/"/>
+  <updated>2013-10-16T19:21:57+02:00</updated>
+  <id>http://blog.gartenkarte.de/</id>
+  <author>
+    <name><![CDATA[jon richter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Berliner Gartenkarte revisited]]></title>
+    <link href="http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited/"/>
+    <updated>2013-10-16T17:55:00+02:00</updated>
+    <id>http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited</id>
+    <content type="html"><![CDATA[<p><img class="<a" src="href="http://gartenkarte.de/gartenplane/img/20130530__georilla__gartenplane.jpg">http://gartenkarte.de/gartenplane/img/20130530__georilla__gartenplane.jpg</a>" title="Berliner Gartenkarte" ></p>
+
+<!--more-->
+
+
+<p>Vor mehr als einem Jahr gestalteten wir für <a href="http://stadtacker.net/">Stadtacker.net</a> einen Prototypen der <a href="http://gartenkarte.de/">Berliner Gartenkarte</a>.</p>
+
+<p>Aus der Datenbasis entstand später auch noch die <a href="http://gartenkarte.de/gartenplane/">Gartenplane</a></p>
+
+<p>Diese kann hier heruntergeladen werden:</p>
+
+<p><a class="btn btn-primary btn-large" href="http://gartenkarte.de/gartenplane/dl/20130530__georilla__gartenplane.pdf">Original PDF (125 MB) »</a></p>
+]]></content>
+  </entry>
+  
+</feed>
