@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 User-agent: *
 Disallow: 
 
 Sitemap: http://blog.gartenkarte.de/sitemap.xml 
-=======
-User-agent: *
-Disallow: 
-
-Sitemap: http://blog.gartenkarte.de/sitemap.xml 
->>>>>>> b09bab26ec6832f80a4eb757532f1bcd60b61ac0
