@@ -4,7 +4,7 @@
   <title><![CDATA[Gartenkarte]]></title>
   <link href="http://blog.gartenkarte.de/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
-  <updated>2013-10-16T19:55:51+04:00</updated>
+  <updated>2013-10-16T19:56:20+04:00</updated>
   <id>http://blog.gartenkarte.de/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -20,11 +20,16 @@
     <id>http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited</id>
     <content type="html"><![CDATA[<p><img src="http://gartenkarte.de/gartenplane/img/20130530__georilla__gartenplane.jpg" title="Berliner Gartenkarte" ></p>
 
-<p>Vor mehr als einem Jahr gestalteten wir den Prototypen.</p>
+<!--more-->
 
-<p>Jetzt war die Printversion dran.</p>
 
-<p>Und was folgt, werden wir sehen.</p>
+<p>Vor mehr als einem Jahr gestalteten wir für <a href="http://stadtacker.net/">Stadtacker.net</a> einen Prototypen der <a href="http://gartenkarte.de/">Berliner Gartenkarte</a>.</p>
+
+<p>Aus der Datenbasis entstand später auch noch die <a href="http://gartenkarte.de/gartenplane/">Gartenplane</a></p>
+
+<p>Diese kann hier heruntergeladen werden:</p>
+
+<p><a class="btn btn-primary btn-large" href="http://gartenkarte.de/gartenplane/dl/20130530__georilla__gartenplane.pdf">Original PDF (125 MB) »</a></p>
 ]]></content>
   </entry>
   
