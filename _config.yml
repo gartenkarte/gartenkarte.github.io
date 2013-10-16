@@ -3,15 +3,9 @@
 # ----------------------- #
 
 url: http://blog.gartenkarte.de
-<<<<<<< HEAD
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-=======
 title: Gartenkarte
 subtitle: Gemeinschaftsgärten und Urbane Landwirtschaft in Berlin
 author: jon richter
->>>>>>> 996e13d28b1a86b6b8ca67f8d28bf3c3dfdfe7e5
 simple_search: http://google.com/search
 description:
 

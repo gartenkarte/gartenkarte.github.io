@@ -7,7 +7,7 @@ categories:
 - gartenkarte 
 ---
 
-{% img http://gartenkarte.de/gartenplane/img/20130530__georilla__gartenplane.jpg Berliner Gartenkarte %}
+{% img http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg Berliner Gartenkarte %}
 
 <!--more-->
 
@@ -17,4 +17,4 @@ Aus der Datenbasis entstand später auch noch die [Gartenplane](http://gartenkar
 
 Diese kann hier heruntergeladen werden:
 
-<a class="btn btn-primary btn-large" href="http://gartenkarte.de/gartenplane/dl/20130530__georilla__gartenplane.pdf">Original PDF (125 MB) »</a>
+<a class="btn btn-primary btn-large" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf">Original PDF (125 MB) »</a>
