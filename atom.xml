@@ -4,7 +4,7 @@
   <title><![CDATA[Gartenkarte]]></title>
   <link href="http://blog.gartenkarte.de/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
-  <updated>2013-10-17T02:38:41+02:00</updated>
+  <updated>2013-10-17T02:54:18+02:00</updated>
   <id>http://blog.gartenkarte.de/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -20,7 +20,13 @@
     <id>http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited</id>
     <content type="html"><![CDATA[<p><img class="fancybox" src="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" title="Berliner Gartenkarte" ></p>
 
-<div class="well gaka-download"><span class="glyphicon glyphicon-download"></span> Herunterladen als <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> oder <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druck</a></div>
+<div class="row">
+    <div class="col-lg-4">
+        <div class="well well-sm gaka-dwnld">
+            <span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druck</a>
+        </div>
+    </div>
+</div>
 
 
 

@@ -23,6 +23,7 @@
   <link href="/javascripts/libs/bootstrap-3.0.0/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/javascripts/libs/bootstrap-3.0.0/dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/stylesheets/custom.css" media="screen, projection" rel="stylesheet" type="text/css">
 <link href="/javascripts/libs/fancyBox/source/jquery.fancybox.css" rel="stylesheet" type="text/css">
 
 
@@ -117,7 +118,13 @@
 
 <div class="entry-content clearfix"><p><img class="fancybox" src="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" title="Berliner Gartenkarte" ></p>
 
-<div class="well gaka-download"><span class="glyphicon glyphicon-download"></span> Herunterladen als <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> oder <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druck</a></div>
+<div class="row">
+    <div class="col-lg-4">
+        <div class="well well-sm gaka-dwnld">
+            <span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druck</a>
+        </div>
+    </div>
+</div>
 
 
 
@@ -284,7 +291,7 @@ $(function() {
   $('.fancybox').fancybox();
 });
 
-$('.gaka-download').tooltip({
+$('.gaka-dwnld').tooltip({
     selector: "[data-toggle=tooltip]",
     container: "body"
 })
