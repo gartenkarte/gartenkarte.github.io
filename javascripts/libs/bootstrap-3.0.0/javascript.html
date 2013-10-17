@@ -23,6 +23,7 @@
   <link href="/javascripts/libs/bootstrap-3.0.0/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/javascripts/libs/bootstrap-3.0.0/dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/javascripts/libs/fancyBox/source/jquery.fancybox.css" rel="stylesheet" type="text/css">
 
 
   <script src="/javascripts/libs/jquery/jquery-2.0.3.min.js"></script>
@@ -2122,7 +2123,26 @@ $('#myTab li:eq(2) a').tab('show') // Select third tab (0-indexed)</code></pre>
 
 
 
-
+<script src="/javascripts/libs/fancyBox/source/jquery.fancybox.pack.js"></script>
+<script>
+$(function()) {
+  $('.entry-content').each(function(i){
+    var _i = i;
+    $(this).find('img.fancybox').each(function(){
+      var img = $(this);
+      var title = img.attr("title");
+      var classes = img.attr("class");
+      img.removeAttr("class");
+      img.wrap('<a href="'+this.src+'" class="' + classes + '" rel="gallery'+_i+'" />');
+      if (title != "")
+      {
+        img.parent().attr("title", title);
+      }
+    });
+  });
+  $('.fancybox').fancybox();
+});
+</script>
 
   </body>
 </html>
