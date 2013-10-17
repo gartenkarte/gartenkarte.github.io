@@ -9,7 +9,7 @@ categories:
 
 {% img http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg Berliner Gartenkarte %}
 
-<a class="btn btn-primary" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf"><span class="glyphicon glyphicon-download"></span> PDF</a> <a class="btn btn-default btn-lg" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg">JPG</a>
+<a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf"><span class="glyphicon glyphicon-download"></span> PDF</a> <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg">JPG</a>
 
 <!--more-->
 
