@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: gartenkarte | Gartenkarte]]></title>
   <link href="http://blog.gartenkarte.de/tag/gartenkarte/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
-  <updated>2013-10-17T02:27:06+02:00</updated>
+  <updated>2013-10-17T02:33:43+02:00</updated>
   <id>http://blog.gartenkarte.de/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -20,7 +20,7 @@
     <id>http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited</id>
     <content type="html"><![CDATA[<p><img class="fancybox <a" src="href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg">http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg</a>" title="Berliner Gartenkarte" ></p>
 
-<div class="well"><span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg">JPG 3MB</a> <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf">PDF 125MB</a></div>
+<div class="well"><span class="glyphicon glyphicon-download"></span> herunterladen als <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> oder <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druckdatei</a></div>
 
 
 
