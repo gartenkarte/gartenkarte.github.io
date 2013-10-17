@@ -7,9 +7,15 @@ categories:
 - gartenkarte 
 ---
 
-{% img http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg Berliner Gartenkarte %}
+{% img fancybox http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg Berliner Gartenkarte %}
 
-<a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf"><span class="glyphicon glyphicon-download"></span> PDF</a> <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg">JPG</a>
+<div class="row">
+	<div class="col-lg-4">
+		<div class="well well-sm gaka-dwnld">
+			<span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druck</a>
+		</div>
+	</div>
+</div>
 
 <!--more-->
 
