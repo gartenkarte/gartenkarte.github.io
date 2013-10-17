@@ -117,7 +117,7 @@
 
 <div class="entry-content clearfix"><p><img class="fancybox" src="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" title="Berliner Gartenkarte" ></p>
 
-<div class="well"><span class="glyphicon glyphicon-download"></span> herunterladen als <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> oder <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druckdatei</a></div>
+<div class="well gaka-download"><span class="glyphicon glyphicon-download"></span> Herunterladen als <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> oder <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druck</a></div>
 
 
 
@@ -283,6 +283,11 @@ $(function() {
   });
   $('.fancybox').fancybox();
 });
+
+$('.gaka-download').tooltip({
+    selector: "[data-toggle=tooltip]",
+    container: "body"
+})
 </script>
 
   </body>
