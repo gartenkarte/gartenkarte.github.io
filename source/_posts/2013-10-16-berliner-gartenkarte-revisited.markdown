@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Berliner Gartenkarte revisited"
-date: 2013-10-16 17:55
+title: Berliner Gartenkarte revisited
+date: "2013-10-16 17:55"
 comments: true
-categories:
-- gartenkarte 
+categories: 
+  - gartenkarte
+published: true
 ---
 
 {% img fancybox http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg Berliner Gartenkarte %}
@@ -21,4 +22,6 @@ categories:
 
 Vor mehr als einem Jahr gestalteten wir für [Stadtacker.net](http://stadtacker.net/) den Prototypen einer online [Gartenkarte](http://gartenkarte.de/).
 
-Aus der Datenbasis entstand später diese gedruckte [Gartenkarte](http://gartenkarte.de/gartenplane/)
+Aus der Datenbasis entstand später diese gedruckte [Gartenkarte](http://gartenkarte.de/gartenplane/).
+
+Aller Freude zu Grunde liegen die Stamen Watercolor Tiles, CC-BY-SA 3.0.
