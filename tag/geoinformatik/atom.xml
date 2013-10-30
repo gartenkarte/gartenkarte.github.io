@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: geoinformatik | Gartenkarte]]></title>
   <link href="http://blog.gartenkarte.de/tag/geoinformatik/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
-  <updated>2013-10-30T21:20:24+01:00</updated>
+  <updated>2013-10-30T21:21:55+01:00</updated>
   <id>http://blog.gartenkarte.de/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Geoinformatik : Implementation eines WebGIS]]></title>
-    <link href="http://blog.gartenkarte.de/2013/geoinformatik-implementation-eines-webgis/"/>
+    <title type="html"><![CDATA[Geoinformatik : Implementierung WebGIS]]></title>
+    <link href="http://blog.gartenkarte.de/2013/geoinformatik-implementierung-webgis/"/>
     <updated>2013-10-30T20:57:00+01:00</updated>
-    <id>http://blog.gartenkarte.de/2013/geoinformatik-implementation-eines-webgis</id>
+    <id>http://blog.gartenkarte.de/2013/geoinformatik-implementierung-webgis</id>
     <content type="html"><![CDATA[<div class="row">
     <div class="col-lg-8 gaka-dwnld">
         <span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/dl/20130108__georilla__dokumentation__web__mapping.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 6MB">Paper</a>
