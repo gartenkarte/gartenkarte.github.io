@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Tag: gartenkarte | Gartenkarte]]></title>
-  <link href="http://blog.gartenkarte.de/tag/gartenkarte/atom.xml" rel="self"/>
+  <title><![CDATA[Tag: abstract | Gartenkarte]]></title>
+  <link href="http://blog.gartenkarte.de/tag/abstract/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
   <updated>2013-11-02T12:35:02+01:00</updated>
   <id>http://blog.gartenkarte.de/</id>
@@ -38,61 +38,6 @@
 <p>This recapitulation conveys the collective bottom-up production of a community-driven map that displays urban agriculture and &ndash; gardens in Berlin. Additionally it will position the authors' work within the field of critical cartography and inherently reflect on action research principles plus the map&rsquo;s meaning to the movement itself.</p>
 
 <p>Outlining current development vectors and speculating about the meaning of webmapping generally, within the nexus of <em>open source</em>, <em>self-organization</em> and <em>data visualization</em>, broadens the scope. And because the mapping process has yet to finish, an euphoric conclusion about the field of collective cartographic representations is at the end of the argument.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Geoinformatik : Implementierung WebGIS]]></title>
-    <link href="http://blog.gartenkarte.de/2013/geoinformatik-implementierung-webgis/"/>
-    <updated>2013-10-30T20:57:00+01:00</updated>
-    <id>http://blog.gartenkarte.de/2013/geoinformatik-implementierung-webgis</id>
-    <content type="html"><![CDATA[<div class="row">
-    <div class="col-lg-8 gaka-dwnld">
-        <span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/dl/20130108__georilla__dokumentation__web__mapping.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 6MB">Paper</a>
-    </div>
-</div>
-
-
-
-
-<!--more-->
-
-
-
-
-<hr />
-
-
-<p><a href="http://gartenkarte.de/dl/20130108__georilla__dokumentation__web__mapping.pdf"><img src="http://gartenkarte.de/img/20130108<strong>georilla</strong>dokumentation<strong>web</strong>mapping_thumb.png" title="Gemeinschaftsgärten in Berlin – Implementierung eines WebGIS und räumliche Analyse" ></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Berliner Gartenkarte revisited]]></title>
-    <link href="http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited/"/>
-    <updated>2013-10-16T17:55:00+02:00</updated>
-    <id>http://blog.gartenkarte.de/2013/berliner-gartenkarte-revisited</id>
-    <content type="html"><![CDATA[<p><img class="fancybox <a" src="href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg">http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg</a>" title="Berliner Gartenkarte" ></p>
-
-<div class="row">
-    <div class="col-lg-3">
-        <div class="well well-sm gaka-dwnld">
-            <span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB">Bild</a> <a class="btn btn-danger" href="http://gartenkarte.de/dl/20130530__georilla__gartenplane.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 125MB">Druck</a>
-        </div>
-    </div>
-</div>
-
-
-
-
-<!--more-->
-
-
-<p>Vor mehr als einem Jahr gestalteten wir für <a href="http://stadtacker.net/">Stadtacker.net</a> den Prototypen einer online <a href="http://gartenkarte.de/">Gartenkarte</a>.</p>
-
-<p>Aus der Datenbasis entstand später diese gedruckte <a href="http://gartenkarte.de/gartenplane/">Gartenkarte</a>.</p>
-
-<p>Aller Freude zu Grunde liegen die Stamen Watercolor Tiles, CC-BY-SA 3.0.</p>
 ]]></content>
   </entry>
   
