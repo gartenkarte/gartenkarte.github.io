@@ -5,7 +5,7 @@ date: "2013-10-16 17:55"
 comments: true
 categories: 
   - gartenkarte
-  - critical collective mapping
+  - critical collective cartography
   - print
 published: true
 ---
