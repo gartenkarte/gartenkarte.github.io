@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: cartocon | Gartenkarte]]></title>
   <link href="http://blog.gartenkarte.de/tag/cartocon/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
-  <updated>2014-02-26T06:42:14+01:00</updated>
+  <updated>2014-02-26T06:46:56+01:00</updated>
   <id>http://blog.gartenkarte.de/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -25,10 +25,46 @@
 
 <div class="row">
     <div class="col-lg-8 gaka-dwnld">
-         <a class="btn btn-success" href="https://speakerd.s3.amazonaws.com/presentations/2f805b7080d40131e5731252e28d83c2/cartocon2014_gartenkarte_jonrichter_presentation.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 18MB"><span class="glyphicon glyphicon-download"></span> Download</a> <a class="btn btn-default" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB"><span class="glyphicon glyphicon-new-window"></span> Quelle</a>
+         <a class="btn btn-success" href="https://speakerd.s3.amazonaws.com/presentations/2f805b7080d40131e5731252e28d83c2/cartocon2014_gartenkarte_jonrichter_presentation.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 18MB"><span class="glyphicon glyphicon-download"></span> Download</a> <a href="https://speakerdeck.com/almereyda/berliner-gartenkarte" data-toggle="tooltip" data-placement="bottom" title="Speaker Deck"><span class="glyphicon glyphicon-new-window"></span> Quelle</a>
     </div>
 </div>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cartocon 2014 Einreichung]]></title>
+    <link href="http://blog.gartenkarte.de/2013/cartocon-2014-einreichung/"/>
+    <updated>2013-11-02T12:33:00+01:00</updated>
+    <id>http://blog.gartenkarte.de/2013/cartocon-2014-einreichung</id>
+    <content type="html"><![CDATA[<!--more-->
+
+
+<p>Dieser Text entstand als Abstract für die <a href="http://cartocon2014.org/">Cartocon 2014</a>.</p>
+
+<hr />
+
+<h1>Berliner Gartenkarte</h1>
+
+<h2>a collective mapping initiative</h2>
+
+<blockquote><p><em>&ldquo;This is science. It just doesn&rsquo;t look like it.&rdquo;</em></p></blockquote>
+
+<h6><em>Bernd Hilberer, Cartograph at Free University Berlin, September 28th 2013, at Allmende-Kontor community garden.</em></h6>
+
+<hr />
+
+<p>Berlin is known for its historically unique free spaces (<em>Freiräume</em>). Due to the morphogenesis of urban space after the Fall of the Wall, the city was scattered with temporary uses and squats. Despite people are constantly demanding their <em>Rights to the City</em> until nowadays, this development is in decline.</p>
+
+<p>As an attempt to continue public participation in shaping (in the sense of <em>gestalten</em>) urban life worlds (<em>Lebenswelten</em>), activists are eager to create, maintain and publicise urban gardening initiatives. The <em>Berliner Gartenkarte</em> is a collective mapping initiative, formed by local students and researchers in collaboration with the urban agriculture community, that intends to visualize the gardens' spatial distribution.</p>
+
+<p>When the students programming and designing the map were asking within the activist network for spatial garden data, they ran into open doors: As the round table &ldquo;Urban Gardening in Berlin&rdquo; already articulated its need for such a map, together with the ZALF (Leibnitz-Zentrum für Agrarlandschaftsforschung / <em>Leibnitz-Center for agricultural landscape research</em>) and the Allmende-Kontor, they took the volunteered geographic information aggregated in the soon-to-be-released community hub <a href="http://stadtacker.net">stadtacker.net</a> as a data source to their self-defined geoinformatics project. After negotiations about data licencing and collaborational details, the data got condensed into a webmap prototype, still to be found in its original form at <a href="http://gartenkarte.de">gartenkarte.de</a>.</p>
+
+<p>The print design took the data even further: After a five month episode of collecting, refining and visualizing the dataset, a DIN A0 Creative Commons map has been sent to the printer. Subsequently, at a round table meeting during spring, twenty tarps and a hundred posters were distributed within the community. In addition is the original printing document always available at <a href="http://gartenkarte.de/gartenplane/">gartenkarte.de/gartenplane</a>.</p>
+
+<p>This recapitulation conveys the collective bottom-up production of a community-driven map that displays urban agriculture and &ndash; gardens in Berlin. Additionally it will position the authors' work within the field of critical cartography and inherently reflect on action research principles plus the map&rsquo;s meaning to the movement itself.</p>
+
+<p>Outlining current development vectors and speculating about the meaning of webmapping generally, within the nexus of <em>open source</em>, <em>self-organization</em> and <em>data visualization</em>, broadens the scope. And because the mapping process has yet to finish, an euphoric conclusion about the field of collective cartographic representations is at the end of the argument.</p>
 ]]></content>
   </entry>
   
