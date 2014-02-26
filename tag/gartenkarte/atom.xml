@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: gartenkarte | Gartenkarte]]></title>
   <link href="http://blog.gartenkarte.de/tag/gartenkarte/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
-  <updated>2014-02-26T04:54:03+01:00</updated>
+  <updated>2014-02-26T06:42:14+01:00</updated>
   <id>http://blog.gartenkarte.de/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cartocon 2014 Präsentation]]></title>
+    <link href="http://blog.gartenkarte.de/2014/cartocon-2014-prasentation/"/>
+    <updated>2014-02-26T06:32:00+01:00</updated>
+    <id>http://blog.gartenkarte.de/2014/cartocon-2014-prasentation</id>
+    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="2f805b7080d40131e5731252e28d83c2" data-ratio="1.33333333333333" src="http://blog.gartenkarte.de//speakerdeck.com/assets/embed.js"></script>
+
+
+
+
+<div class="row">
+    <div class="col-lg-8 gaka-dwnld">
+         <a class="btn btn-success" href="https://speakerd.s3.amazonaws.com/presentations/2f805b7080d40131e5731252e28d83c2/cartocon2014_gartenkarte_jonrichter_presentation.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 18MB"><span class="glyphicon glyphicon-download"></span> Download</a> <a class="btn btn-default" href="http://gartenkarte.de/img/20130530__georilla__gartenplane.jpg" data-toggle="tooltip" data-placement="bottom" title="JPG 3MB"><span class="glyphicon glyphicon-new-window"></span> Quelle</a>
+    </div>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GitHub Repository aktualisiert]]></title>
+    <link href="http://blog.gartenkarte.de/2014/github-repository-aktualisiert/"/>
+    <updated>2014-02-26T06:26:00+01:00</updated>
+    <id>http://blog.gartenkarte.de/2014/github-repository-aktualisiert</id>
+    <content type="html"><![CDATA[<p>Auf <a href="https://github.com/gartenkarte/">GitHub.com/gartenkarte</a> sind nun auch die <a href="https://github.com/gartenkarte/helper-scripts/">helper-scripts</a> für die Druckkarte sowie der <a href="https://github.com/gartenkarte/2013_webmap/">Prototyp</a> zu finden.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cartocon 2014 Einreichung]]></title>

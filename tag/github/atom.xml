@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: GitHub | Gartenkarte]]></title>
+  <link href="http://blog.gartenkarte.de/tag/github/atom.xml" rel="self"/>
+  <link href="http://blog.gartenkarte.de/"/>
+  <updated>2014-02-26T06:42:14+01:00</updated>
+  <id>http://blog.gartenkarte.de/</id>
+  <author>
+    <name><![CDATA[jon richter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[GitHub Repository aktualisiert]]></title>
+    <link href="http://blog.gartenkarte.de/2014/github-repository-aktualisiert/"/>
+    <updated>2014-02-26T06:26:00+01:00</updated>
+    <id>http://blog.gartenkarte.de/2014/github-repository-aktualisiert</id>
+    <content type="html"><![CDATA[<p>Auf <a href="https://github.com/gartenkarte/">GitHub.com/gartenkarte</a> sind nun auch die <a href="https://github.com/gartenkarte/helper-scripts/">helper-scripts</a> für die Druckkarte sowie der <a href="https://github.com/gartenkarte/2013_webmap/">Prototyp</a> zu finden.</p>
+]]></content>
+  </entry>
+  
+</feed>
