@@ -2,3 +2,8 @@
 	font-size: 2em;
 	vertical-align: -0.33em;
 }
+h1.entry-title {
+	display: inline;
+}
+.fancybox-margin{margin-right:15px;}
+h1.entry-title+a.btn{position: relative;top: -0.66em;}

@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: geoinformatik | Gartenkarte]]></title>
   <link href="http://blog.gartenkarte.de/tag/geoinformatik/atom.xml" rel="self"/>
   <link href="http://blog.gartenkarte.de/"/>
-  <updated>2013-11-02T12:55:44+01:00</updated>
+  <updated>2014-02-26T04:54:03+01:00</updated>
   <id>http://blog.gartenkarte.de/</id>
   <author>
     <name><![CDATA[jon richter]]></name>
@@ -20,7 +20,7 @@
     <id>http://blog.gartenkarte.de/2013/geoinformatik-implementierung-webgis</id>
     <content type="html"><![CDATA[<div class="row">
     <div class="col-lg-8 gaka-dwnld">
-        <span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/dl/20130108__georilla__dokumentation__web__mapping.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 6MB">Paper</a>
+        <span class="glyphicon glyphicon-download"></span> <a class="btn btn-success" href="http://gartenkarte.de/dl/20130108__georilla__dokumentation__web__mapping.pdf" data-toggle="tooltip" data-placement="bottom" title="PDF 6MB">Paper</a>       
     </div>
 </div>
 
@@ -30,10 +30,7 @@
 <!--more-->
 
 
-
-
 <hr />
-
 
 <p><a href="http://gartenkarte.de/dl/20130108__georilla__dokumentation__web__mapping.pdf"><img src="http://gartenkarte.de/img/20130108<strong>georilla</strong>dokumentation<strong>web</strong>mapping_thumb.png" title="Gemeinschaftsgärten in Berlin – Implementierung eines WebGIS und räumliche Analyse" ></a></p>
 ]]></content>
